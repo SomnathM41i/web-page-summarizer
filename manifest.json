@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Floating Button Extension",
+    "version": "1.0",
+    "description": "Adds a floating button accessible from anywhere in the browser.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Floating Button"
+    }
+  }
+  
