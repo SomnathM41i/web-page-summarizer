@@ -21,7 +21,7 @@ if (isset($data['html'])) {
     $sanitizedHtml = strip_tags($html);
     writeLog("Sanitized HTML content received for summarization.");
 
-    $apiKey = "AIzaSyBZEZKklO8LRbGN5GzJDAJ0pNzJYiRDF9o";
+    $apiKey = "";
     $summary = summarizeContentWithGemini($sanitizedHtml, $apiKey);
 
     writeLog("Generated summary: " . $summary);
