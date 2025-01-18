@@ -29,6 +29,10 @@ Save time, stay informed. With the power of Google Gemini, the Web Page Summariz
 - Click the Web Page Summarizer icon in the toolbar.
 - Instantly receive a clear, concise summary of any web page.
 
+## 🎥 Demo
+- Watch the demonstration video to see the Web Page Summarizer in action:
+![Demo Video](/Demo/Demo.mp4)
+
 ## 🛡️ Privacy and Security
 - Your privacy is our priority. All summarization happens locally on your device—no data collection, no tracking, no compromises. Your browsing history and personal information remain secure and private.
 
