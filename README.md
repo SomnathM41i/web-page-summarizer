@@ -31,11 +31,7 @@ Save time, stay informed. With the power of Google Gemini, the Web Page Summariz
 
 ## 🎥 Demo
 - Watch the demonstration video to see the Web Page Summarizer in action:
-
-<video width="600" controls>
-  <source src="/Demo/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](https://github.com/SomnathM41i/web-page-summarizer/blob/main/Demo/Demo.mp4)
 
 ## 🛡️ Privacy and Security
 - Your privacy is our priority. All summarization happens locally on your device—no data collection, no tracking, no compromises. Your browsing history and personal information remain secure and private.
