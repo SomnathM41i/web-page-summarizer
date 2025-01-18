@@ -13,3 +13,36 @@ Save time, stay informed. With the power of Google Gemini, the Web Page Summariz
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/yourusername/web-page-summarizer.git
+
+2. **Navigate to the Directory:**:
+`   ```sh
+    cd web-page-summarizer
+
+3. **Load the Extension:**
+
+- Open your browser and go to the extensions page.
+- Enable "Developer mode".
+- Click "Load unpacked" and select the project directory.
+
+## 🧠 How It Works
+- Install the extension in your browser.
+- Click the Web Page Summarizer icon in the toolbar.
+- Instantly receive a clear, concise summary of any web page.
+
+## 🛡️ Privacy and Security
+- Your privacy is our priority. All summarization happens locally on your device—no data collection, no tracking, no compromises. Your browsing history and personal information remain secure and private.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+
+## Contact
+
+For any inquiries or feedback, please contact:
+- **Name**: Somnath Mali
+- **Email**: somnath.malim46@gmail.com
+- **Instagram**: [Instagram Profile](https://www.instagram.com/somnath.m41i)
+- **Instagram**: [Instagram Profile](https://www.instagram.com/emperor.of.battle)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/somnathm41i/)
+- **X**: [X Profile](https://x.com/Somnathm41i)
