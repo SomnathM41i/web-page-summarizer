@@ -15,7 +15,7 @@ Save time, stay informed. With the power of Google Gemini, the Web Page Summariz
    git clone https://github.com/yourusername/web-page-summarizer.git
 
 2. **Navigate to the Directory:**:
-`   ```sh
+   ```sh
     cd web-page-summarizer
 
 3. **Load the Extension:**
